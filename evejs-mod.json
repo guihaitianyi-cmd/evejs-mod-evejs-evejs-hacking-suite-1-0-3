@@ -1,0 +1,41 @@
+{
+  "author": {
+    "id": "au-muuy8xmc62sr",
+    "keyId": "f163b59ae080",
+    "name": "sleephah"
+  },
+  "category": "玩法",
+  "changelog": "",
+  "conflicts": [],
+  "delisted": false,
+  "description": "遗迹 / 数据站点开箱破解小游戏",
+  "displayName": "evejs-hacking-suite-1.0.3",
+  "downloadUrls": [
+    {
+      "mirror": "github",
+      "priority": 1,
+      "url": "https://github.com/guihaitianyi-cmd/evejs-mod-evejs-evejs-hacking-suite-1-0-3/releases/download/v1.0.3/evejs-evejs-hacking-suite-1-0-3-1.0.3.zip"
+    }
+  ],
+  "evejsVersions": [
+    "0.12.9"
+  ],
+  "featured": false,
+  "highlights": [
+    "保留全部 loader 加载要点（身份校验 / require.cache 等待 / unref）",
+    "业务钩子集中在 loader.js 的 start() 里，改这一处即可",
+    "改服务端源码用 SOURCE_PATCH（走注入总线），不自己 hook _compile"
+  ],
+  "history": [],
+  "id": "evejs-evejs-hacking-suite-1-0-3",
+  "publishedAt": "2026-10-05",
+  "readme": [
+    "遗迹 / 数据站点开箱破解小游戏"
+  ],
+  "repo": "https://github.com/guihaitianyi-cmd/evejs-mod-evejs-evejs-hacking-suite-1-0-3",
+  "requiresRestart": true,
+  "sha256": "6c8e29828007eef55b11937be635067671af8c508a86717b83bc60f7e9b6abca",
+  "sizeBytes": 36217,
+  "tags": [],
+  "version": "1.0.3"
+}
